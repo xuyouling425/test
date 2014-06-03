@@ -2,11 +2,13 @@ package com.color.test;
 
 public class ColorEntity {
 
+	//颜色id
 	private String colorId;
-	
+	//颜色色码
 	private String colorCode;
-	
+	//颜色名称
 	private String colorName;
+	
 	public String getColorId() {
 		return colorId;
 	}
