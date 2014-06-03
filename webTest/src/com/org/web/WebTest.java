@@ -21,6 +21,12 @@ public class WebTest {
 	public void setWebName(String webName) {
 		this.webName = webName;
 	}
+	public String getWebServece() {
+		return webServece;
+	}
+	public void setWebServece(String webServece) {
+		this.webServece = webServece;
+	}
 	
 	
 	
