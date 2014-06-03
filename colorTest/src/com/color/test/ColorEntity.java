@@ -3,7 +3,9 @@ package com.color.test;
 public class ColorEntity {
 
 	private String colorId;
+	
 	private String colorCode;
+	
 	private String colorName;
 	public String getColorId() {
 		return colorId;
