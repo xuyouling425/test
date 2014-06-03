@@ -6,7 +6,7 @@ public class WebTest {
 	private String webUrl;
 	//项目名称
 	private String webName;
-	
+	//项目服务接口
 	private String webServece;
 	
 	public String getWebUrl() {
